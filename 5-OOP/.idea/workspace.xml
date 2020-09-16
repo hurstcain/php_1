@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bc565d2-ebbc-489a-aa54-8236f1c8e026" name="Default Changelist" comment="Добавлено задание из папки 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6e295c47-fa59-4038-b3dd-18da7cbaa282" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../4-post-get/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-post-get/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hSIt5eY24YkdxW7Zl9RawnVZHh" />
+  <component name="ProjectId" id="1hYiwAD70szVTsGm5u1DSiuCIQL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -44,28 +44,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JS/задания от куратора" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6bc565d2-ebbc-489a-aa54-8236f1c8e026" name="Default Changelist" comment="" />
-      <created>1599998277626</created>
+      <changelist id="6e295c47-fa59-4038-b3dd-18da7cbaa282" name="Default Changelist" comment="" />
+      <created>1600194662297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599998277626</updated>
-      <workItem from="1599998278723" duration="12944000" />
-      <workItem from="1600192609471" duration="1173000" />
+      <updated>1600194662297</updated>
+      <workItem from="1600194663436" duration="557000" />
+      <workItem from="1600243256636" duration="3089000" />
     </task>
-    <task id="LOCAL-00001" summary="Добавлено задание из папки 3">
-      <created>1600013424577</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600013424577</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,26 +74,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Добавлено задание из папки 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлено задание из папки 3" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600194657954">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1600194695719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600194657954" />
-    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1600007002762">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1600007002762" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600013446825">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600013446825" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1599998363106">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599998363106" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1600194695719" />
   </component>
 </project>
